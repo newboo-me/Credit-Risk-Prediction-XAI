@@ -32,7 +32,8 @@
 2. **Interest Rate (อัตราดอกเบี้ย):** ดอกเบี้ยที่แพงเป็นภาระหนักที่ผลักให้ลูกค้าทิ้งหนี้
 3. **Person Income (รายได้ส่วนบุคคล):** ลูกค้ารายได้สูงมีแนวโน้มความเสี่ยงต่ำกว่าอย่างชัดเจน (Negative SHAP Value)
 
-<img width="708" height="716" alt="Screenshot 2026-09-06 131331" src="https://github.com/user-attachments/assets/957ecd25-ddb5-4ba9-b7a1-768d3107b99f" />
-<img width="411" height="306" alt="Screenshot 2026-09-06 131358" src="https://github.com/user-attachments/assets/c7900d9d-00e8-4aaf-a60e-639fdbbbec10" />
-<img width="1500" height="716" alt="Screenshot 2026-09-06 131309" src="https://github.com/user-attachments/assets/f24224fa-6259-4d77-badb-f295a2917155" />
+<img width="1500" height="716" alt="Screenshot 2026-09-06 131309" src="https://github.com/user-attachments/assets/1eaa595f-5a14-4401-a87f-2ed929052d9c" />
+<img width="411" height="306" alt="Screenshot 2026-09-06 131358" src="https://github.com/user-attachments/assets/991a62fd-188e-473a-b118-d6c0d61c39a1" />
+<img width="708" height="716" alt="Screenshot 2026-09-06 131331" src="https://github.com/user-attachments/assets/e5143425-db0c-4454-a2cf-dc411c9a59ab" />
+
 
