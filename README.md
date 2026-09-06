@@ -1,4 +1,4 @@
-# Credit Risk Prediction & Explainable AI 🏦
+# Credit Risk Prediction & Explainable 
 
 ## Project Overview
 โปรเจกต์นี้เป็นการวิเคราะห์ความเสี่ยงในการผิดนัดชำระหนี้ (Credit Risk / Loan Default) โดยใช้หลักการทางสถิติ (Hypothesis Testing) และสร้างโมเดล Machine Learning เพื่อทำนายความเสี่ยงของลูกค้า พร้อมประยุกต์ใช้ทฤษฎีเกม (SHAP Values) ในการอธิบายผลลัพธ์ของโมเดลให้ตอบโจทย์การตัดสินใจทางธุรกิจ
@@ -32,4 +32,7 @@
 2. **Interest Rate (อัตราดอกเบี้ย):** ดอกเบี้ยที่แพงเป็นภาระหนักที่ผลักให้ลูกค้าทิ้งหนี้
 3. **Person Income (รายได้ส่วนบุคคล):** ลูกค้ารายได้สูงมีแนวโน้มความเสี่ยงต่ำกว่าอย่างชัดเจน (Negative SHAP Value)
 
-*(คำแนะนำ: ให้นำรูปภาพกราฟ SHAP ของคุณ อัปโหลดและลากมาวางใต้บรรทัดนี้ได้เลย)*
+<img width="708" height="716" alt="Screenshot 2026-09-06 131331" src="https://github.com/user-attachments/assets/957ecd25-ddb5-4ba9-b7a1-768d3107b99f" />
+<img width="411" height="306" alt="Screenshot 2026-09-06 131358" src="https://github.com/user-attachments/assets/c7900d9d-00e8-4aaf-a60e-639fdbbbec10" />
+<img width="1500" height="716" alt="Screenshot 2026-09-06 131309" src="https://github.com/user-attachments/assets/f24224fa-6259-4d77-badb-f295a2917155" />
+
