@@ -36,7 +36,7 @@
 <img width="411" height="306" alt="Screenshot 2026-09-06 131358" src="https://github.com/user-attachments/assets/991a62fd-188e-473a-b118-d6c0d61c39a1" />
 <img width="708" height="716" alt="Screenshot 2026-09-06 131331" src="https://github.com/user-attachments/assets/e5143425-db0c-4454-a2cf-dc411c9a59ab" />
 
-**ไอเดียต่อยอเต่อ**
+**ไอเดียต่อยอด**
 การกำหนดอัตราดอกเบี้ยตามความเสี่ยง (Dynamic Risk-Based Pricing): แทนที่จะใช้อนุมัติแบบ Binary (ผ่าน/ไม่ผ่าน) สามารถนำระดับความเสี่ยงไปคำนวณอัตราดอกเบี้ยแบบรายบุคคล (Personalized Interest Rate) เพื่อลดโอกาส NPL และเพิ่มกำไรให้สถาบันการเงินคำแนะนำ
 
 ปรับปรุงเครดิต (What-If / Counterfactual Analysis): นำค่า SHAP มาทำฟังก์ชันแนะนำผู้ขอสินเชื่อที่ไม่ผ่าน เช่น "หากคุณลดภาระหนี้เดิมลง X บาท หรือเพิ่มเงินออมอีก Y บาท โอกาสการอนุมัติของคุณจะเพิ่มขึ้นเป็น 80%" ช่วยสร้างประสบการณ์ที่ดีให้กับลูกค้าInternal Dashboard 
